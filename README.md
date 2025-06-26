@@ -2,7 +2,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/4imk16/4imk16/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/4imk16/4imk16/output/snake.svg" alt="[Snake animation](https://opengameart.org/sites/default/files/snake%20gesture.gif)" />
 
 ###
 
